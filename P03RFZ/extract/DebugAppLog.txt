@@ -1,0 +1,261 @@
+
+
+Start to Init Application. 2021-03-07 17:57:07
+Onepack ver: 4.35.0.0
+Success to Get Language ID : 412
+Success to Check Already Execute
+Unpack Dir: C:\Users\eseou\AppData\Local\Temp\__Samsung_Update\
+Success to Create Thread
+Success to verify digital signature
+Success to check disk space
+Success to get BIOS option
+Enabled option in Packer : 00000091
+Default BIOS update option : /p /b /n /r /e /capsule /q
+Dev cnt to be disabled : 1
+EU: Command line param option : 00000091
+EU: Command line param cmd : /p /b /n /r /e /capsule /q
+OEM String[0] : AAABAAAAAWVA
+OEM String[1] : 2021/02/27
+OEM String[2] : SECPARTN:RFZ
+Part number : RFZ
+BIOS Vendor : American Megatrends International, LLC.
+BIOS Release date : 2021-1-25
+BIOS Version : P03RFZ.031.210125.YY
+Product name : 950XDA
+S/N : 4TXA9FNR100102
+System enclosure type : SYSTEM_TYPE_NOTEBOOK
+Processor manufacturer : Intel(R) Corporation
+Processor manufacturer : Intel
+Success to get system information
+OsType: 5, 64bit: 1
+Firmwaretype: 2
+Success to check system power
+
+Success to notify to user
+Success to extract files
+Success to Get BIOS File list
+Success to Find BIOS file
+Found SBVC structure
+Overwritten version type: P
+System Information
+BIOS Vendor = BIOS_VENDOR_AMI_EFI
+PartID = RFZ, Bios Version: P03RFZ.031.210125.YY
+New Bios Information
+fileName : P03RFZ.CAP
+PartID = RFZ, Bios Version: P03RFZ.031
+INF file name: WFU_PRFZ.inf
+Success to get BIOS file information
+Success to check BIOS version
+WFU command : InstallInfDriverTest64.exe WFU_PRFZ.inf
+HttpLogQuery:http://orcaservice.samsungmobile.com/biosupdatelog.aspx?SN=4TXA9FNR100102&CurrentVer=P03RFZ.031.210125.YY&TargetVer=P03RFZ.031&CurrentOSVersion=10.0.19042&LocalDateTime=20210307_175714&UpdateMethod=WFU ...
+Sending log done
+Success to Update BIOS
+RETURN_END_SUCCESS in AMI/Phoenix NP/AIO BIOS
+WinTabPaches:AfterUpdate Entry
+WinTabPaches:AfterUpdate Exit
+File clear
+RETURN_END_SUCCESS: Reboot system for WFU UPDATE
+
+
+Start to Init Application. 2021-03-07 18:16:18
+Onepack ver: 4.35.0.0
+Success to Get Language ID : 412
+Success to Check Already Execute
+Unpack Dir: C:\Users\eseou\AppData\Local\Temp\__Samsung_Update\
+Success to Create Thread
+Success to verify digital signature
+Success to check disk space
+Success to get BIOS option
+Enabled option in Packer : 00000091
+Default BIOS update option : /p /b /n /r /e /capsule /q
+Dev cnt to be disabled : 1
+EU: Command line param option : 00000091
+EU: Command line param cmd : /p /b /n /r /e /capsule /q
+OEM String[0] : AAABAAAAAWVA
+OEM String[1] : 2021/02/27
+OEM String[2] : SECPARTN:RFZ
+Part number : RFZ
+BIOS Vendor : American Megatrends International, LLC.
+BIOS Release date : 2021-1-25
+BIOS Version : P03RFZ.031.210125.YY
+Product name : 950XDA
+S/N : 4TXA9FNR100102
+System enclosure type : SYSTEM_TYPE_NOTEBOOK
+Processor manufacturer : Intel(R) Corporation
+Processor manufacturer : Intel
+Success to get system information
+OsType: 5, 64bit: 1
+Firmwaretype: 2
+Success to check system power
+
+Success to notify to user
+Success to extract files
+Success to Get BIOS File list
+Success to Find BIOS file
+Found SBVC structure
+Overwritten version type: P
+System Information
+BIOS Vendor = BIOS_VENDOR_AMI_EFI
+PartID = RFZ, Bios Version: P03RFZ.031.210125.YY
+New Bios Information
+fileName : P03RFZ.CAP
+PartID = RFZ, Bios Version: P03RFZ.031
+INF file name: WFU_PRFZ.inf
+Success to get BIOS file information
+Success to check BIOS version
+WFU command : InstallInfDriverTest64.exe WFU_PRFZ.inf
+HttpLogQuery:http://orcaservice.samsungmobile.com/biosupdatelog.aspx?SN=4TXA9FNR100102&CurrentVer=P03RFZ.031.210125.YY&TargetVer=P03RFZ.031&CurrentOSVersion=10.0.19042&LocalDateTime=20210307_181643&UpdateMethod=WFU ...
+Sending log done
+Success to Update BIOS
+RETURN_END_SUCCESS in AMI/Phoenix NP/AIO BIOS
+WinTabPaches:AfterUpdate Entry
+WinTabPaches:AfterUpdate Exit
+File clear
+RETURN_END_SUCCESS: Reboot system for WFU UPDATE
+
+
+Start to Init Application. 2021-03-07 18:17:21
+Onepack ver: 4.35.0.0
+Success to Get Language ID : 412
+Success to Check Already Execute
+Unpack Dir: C:\Users\eseou\AppData\Local\Temp\__Samsung_Update\
+Success to Create Thread
+Success to verify digital signature
+Success to check disk space
+Success to get BIOS option
+Enabled option in Packer : 00000091
+Default BIOS update option : /p /b /n /r /e /capsule /q
+Dev cnt to be disabled : 1
+EU: Command line param option : 00000091
+EU: Command line param cmd : /p /b /n /r /e /capsule /q
+OEM String[0] : AAABAAAAAWVA
+OEM String[1] : 2021/02/27
+OEM String[2] : SECPARTN:RFZ
+Part number : RFZ
+BIOS Vendor : American Megatrends International, LLC.
+BIOS Release date : 2021-1-25
+BIOS Version : P03RFZ.031.210125.YY
+Product name : 950XDA
+S/N : 4TXA9FNR100102
+System enclosure type : SYSTEM_TYPE_NOTEBOOK
+Processor manufacturer : Intel(R) Corporation
+Processor manufacturer : Intel
+Success to get system information
+OsType: 5, 64bit: 1
+Firmwaretype: 2
+Success to check system power
+
+Success to notify to user
+Success to extract files
+Success to Get BIOS File list
+Success to Find BIOS file
+Found SBVC structure
+Overwritten version type: P
+System Information
+BIOS Vendor = BIOS_VENDOR_AMI_EFI
+PartID = RFZ, Bios Version: P03RFZ.031.210125.YY
+New Bios Information
+fileName : P03RFZ.CAP
+PartID = RFZ, Bios Version: P03RFZ.031
+INF file name: WFU_PRFZ.inf
+Success to get BIOS file information
+Success to check BIOS version
+WFU command : InstallInfDriverTest64.exe WFU_PRFZ.inf
+HttpLogQuery:http://orcaservice.samsungmobile.com/biosupdatelog.aspx?SN=4TXA9FNR100102&CurrentVer=P03RFZ.031.210125.YY&TargetVer=P03RFZ.031&CurrentOSVersion=10.0.19042&LocalDateTime=20210307_181804&UpdateMethod=WFU ...
+Sending log done
+Success to Update BIOS
+RETURN_END_SUCCESS in AMI/Phoenix NP/AIO BIOS
+WinTabPaches:AfterUpdate Entry
+WinTabPaches:AfterUpdate Exit
+File clear
+RETURN_END_SUCCESS: Reboot system for WFU UPDATE
+
+
+Start to Init Application. 2021-03-07 18:22:45
+Onepack ver: 4.35.0.0
+Success to Get Language ID : 412
+Success to Check Already Execute
+Unpack Dir: C:\Users\eseou\AppData\Local\Temp\__Samsung_Update\
+Success to verify digital signature
+EU: Command line param cmd : /p /b /n /r /e /capsule /q
+OEM String[0] : AAABAAAAAWVA
+OEM String[1] : 2021/02/27
+OEM String[2] : SECPARTN:RFZ
+Part number : RFZ
+BIOS Vendor : American Megatrends International, LLC.
+BIOS Release date : 2021-1-25
+BIOS Version : P03RFZ.031.210125.YY
+Product name : 950XDA
+Success to check system power
+
+Success to notify to user
+Success to extract files
+Success to Get BIOS File list
+Success to Find BIOS file
+Found SBVC structure
+Overwritten version type: P
+System Information
+BIOS Vendor = BIOS_VENDOR_AMI_EFI
+PartID = RFZ, Bios Version: P03RFZ.031.210125.YY
+New Bios Information
+fileName : P03RFZ.CAP
+PartID = RFZ, Bios Version: P03RFZ.031
+INF file name: WFU_PRFZ.inf
+Success to get BIOS file information
+Success to check BIOS version
+WFU command : InstallInfDriverTest64.exe WFU_PRFZ.inf
+HttpLogQuery:http://orcaservice.samsungmobile.com/biosupdatelog.aspx?SN=4TXA9FNR100102&CurrentVer=P03RFZ.031.210125.YY&TargetVer=P03RFZ.031&CurrentOSVersion=10.0.19042&LocalDateTime=20210307_182252&UpdateMethod=WFU ...
+Sending log done
+Success to Update BIOS
+RETURN_END_SUCCESS in AMI/Phoenix NP/AIO BIOS
+WinTabPaches:AfterUpdate Entry
+WinTabPaches:AfterUpdate Exit
+File clear
+RETURN_END_SUCCESS: Reboot system for WFU UPDATE
+
+
+Start to Init Application. 2021-03-07 18:24:38
+Onepack ver: 4.35.0.0
+Success to Get Language ID : 412
+Success to Check Already Execute
+Unpack Dir: C:\Users\eseou\AppData\Local\Temp\__Samsung_Update\
+Success to Create Thread
+Success to verify digital signature
+Success to check disk space
+Success to get BIOS option
+Enabled option in Packer : 00000091
+Default BIOS update option : /p /b /n /r /e /capsule /q
+Dev cnt to be disabled : 1
+EU: Command line param option : 00000091
+EU: Command line param cmd : /p /b /n /r /e /capsule /q
+OEM String[0] : AAABAAAAAWVA
+OEM String[1] : 2021/02/27
+OEM String[2] : SECPARTN:RFZ
+Part number : RFZ
+BIOS Vendor : American Megatrends International, LLC.
+BIOS Release date : 2021-1-25
+BIOS Version : P03RFZ.031.210125.YY
+Product name : 950XDA
+S/N : 4TXA9FNR100102
+System enclosure type : SYSTEM_TYPE_NOTEBOOK
+Processor manufacturer : Intel(R) Corporation
+Processor manufacturer : Intel
+Success to get system information
+OsType: 5, 64bit: 1
+Firmwaretype: 2
+Success to check system power
+
+Success to notify to user
+Success to extract files
+Success to Get BIOS File list
+Success to Find BIOS file
+Found SBVC structure
+Overwritten version type: P
+HttpLogQuery:http://orcaservice.samsungmobile.com/biosupdatelog.aspx?SN=4TXA9FNR100102&CurrentVer=P03RFZ.031.210125.YY&TargetVer=P03RFZ.031&CurrentOSVersion=10.0.19042&LocalDateTime=20210307_182445&UpdateMethod=WFU ...
+Sending log done
+Success to Update BIOS
+RETURN_END_SUCCESS in AMI/Phoenix NP/AIO BIOS
+WinTabPaches:AfterUpdate Entry
+WinTabPaches:AfterUpdate Exit
+File clear
+RETURN_END_SUCCESS: Reboot system for WFU UPDATE

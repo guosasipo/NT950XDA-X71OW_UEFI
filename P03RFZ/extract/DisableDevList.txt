@@ -1,0 +1,2 @@
+|CLASS_GUID                            | ENUMERATOR | HWID
+{ffffffff-ffff-ffff-ffff-ffffffffffff}   ENUM         USB\VID_0000&PID_1111&MI_22

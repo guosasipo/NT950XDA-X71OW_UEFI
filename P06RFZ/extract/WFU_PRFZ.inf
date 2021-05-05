@@ -1,0 +1,48 @@
+[Version]
+Signature = "$WINDOWS NT$"
+Provider = %Provider%
+Class = Firmware
+ClassGuid = {f2e7dd72-6468-4e36-b6f1-6488f42c1b52}
+DriverVer = 03/29/2021,10.0.6.36
+CatalogFile = P06RFZ.cat
+PnpLockdown = 1
+
+[Manufacturer]
+%MfgName% = Firmware, NTamd64
+
+[Firmware.NTamd64]
+%FirmwareDesc% = Firmware_Install, UEFI\RES_{8002ce63-0d41-42e7-8726-d7bc07bd073b}
+
+[Firmware_Install.NT]
+CopyFiles = Firmware_CopyFiles
+
+[Firmware_CopyFiles]
+P06RFZ.CAP
+
+[Firmware_Install.NT.Hw]
+AddReg = Firmware_AddReg
+
+[Firmware_AddReg]
+HKR,,FirmwareId,,{8002ce63-0d41-42e7-8726-d7bc07bd073b}
+HKR,,FirmwareVersion,%REG_DWORD%,636
+HKR,,FirmwareFilename,,{8002ce63-0d41-42e7-8726-d7bc07bd073b}\P06RFZ.CAP
+
+[SourceDisksNames]
+1 = %DiskName%
+
+[SourceDisksFiles]
+P06RFZ.CAP = 1
+
+[DestinationDirs]
+DefaultDestDir = %DIRID_WINDOWS%, Firmware\{8002ce63-0d41-42e7-8726-d7bc07bd073b}
+
+[Strings]
+; localizable
+Provider = "Samsung Electronics Co., Ltd."
+MfgName = "Samsung Electronics Co., Ltd."
+FirmwareDesc = "SAMSUNG ELECTRONICS System Firmware"
+DiskName = "Firmware Update"
+
+; non - localizable
+DIRID_WINDOWS = 10
+REG_DWORD = 0x00010001

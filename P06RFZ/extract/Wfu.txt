@@ -1,0 +1,35 @@
+Microsoft PnP 유틸리티
+
+드라이버 패키지를 제거했습니다.
+드라이버 패키지를 삭제했습니다.
+Microsoft PnP 유틸리티
+
+드라이버 패키지를 추가하는 중:  WFU_PRFZ.inf
+드라이버 패키지를 추가했습니다.
+게시된 이름:         oem124.inf
+드라이버 패키지가 장치에 설치됨: UEFI\RES_{8002ce63-0d41-42e7-8726-d7bc07bd073b}\0
+
+총 드라이버 패키지:  1
+추가된 드라이버 패키지:  1
+
+
+::::: INF install 2021-05-06 02:31:25 Ver: 10.0.6.36
+ HWID: UEFI\RES_{8002CE63-0D41-42E7-8726-D7BC07BD073B}
+End of : SetupDiEnumDeviceInfo loop (0)
+UEFI\RES_{8002CE63-0D41-42E7-8726-D7BC07BD073B}&REV_27C
+UEFI\RES_{8002CE63-0D41-42E7-8726-D7BC07BD073B}
+Drv[0]: Mfg: Samsung Electronics Co., Ltd.
+Driver ver: 10.0.6.36
+inf: oem124.inf
+old inf uninstalled
+1 Seconds delay
+Start: SetupDiDestroyDriverInfoList
+End: SetupDiDestroyDriverInfoList
+End of : SetupDiEnumDeviceInfo loop (1)
+Start: SetupDiDestroyDeviceInfoList
+End: SetupDiDestroyDeviceInfoList
+Clear done
+Start: CreateProcess: install
+Start: WaitForSingleObject: install
+End: WaitForSingleObject: install
+ReturnCode:0
