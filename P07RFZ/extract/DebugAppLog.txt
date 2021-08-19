@@ -1,0 +1,36 @@
+File clear
+RETURN_END_SUCCESS: Reboot system for WFU UPDATE
+
+
+Start to Init Application. 2021-08-19 02:16:25
+Onepack ver: 4.35.0.0
+Success to Create Thread
+Default BIOS update option : /p /b /n /r /e /capsule /q
+Dev cnt to be disabled : 1
+S/N : 4TXA9FNR100102
+System enclosure type : SYSTEM_TYPE_NOTEBOOK
+
+Success to notify to user
+Success to extract files
+Success to Get BIOS File list
+Success to Find BIOS file
+Found SBVC structure
+Overwritten version type: P
+System Information
+BIOS Vendor = BIOS_VENDOR_AMI_EFI
+PartID = RFZ, Bios Version: P07RFZ.037.210610.YY
+New Bios Information
+fileName : P07RFZ.CAP
+PartID = RFZ, Bios Version: P07RFZ.037
+INF file name: WFU_PRFZ.inf
+Success to get BIOS file information
+Success to check BIOS version
+WFU command : InstallInfDriverTest64.exe WFU_PRFZ.inf
+HttpLogQuery:http://orcaservice.samsungmobile.com/biosupdatelog.aspx?SN=4TXA9FNR100102&CurrentVer=P07RFZ.037.210610.YY&TargetVer=P07RFZ.037&CurrentOSVersion=10.0.22000&LocalDateTime=20210819_021631&UpdateMethod=WFU ...
+Sending log done
+Success to Update BIOS
+RETURN_END_SUCCESS in AMI/Phoenix NP/AIO BIOS
+WinTabPaches:AfterUpdate Entry
+WinTabPaches:AfterUpdate Exit
+File clear
+RETURN_END_SUCCESS: Reboot system for WFU UPDATE
